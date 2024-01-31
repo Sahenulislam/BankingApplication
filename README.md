@@ -11,13 +11,14 @@ This is a banking application implemented in Java. It provides functionality for
 - Deposit and withdraw funds: Perform financial transactions on your accounts.
 - Search for an account: Find detailed information about a specific account.
 
-Account Types and Minimum Balances
-- Current Account: Minimum balance $100.
-- Savings Account: Minimum balance $50.
-- Salary Account: Minimum balance $10.
 ## How to Use
 
 1. **Clone the Repository:**
   https://github.com/Sahenulislam/BankingApplication.git
+
+Account Types and Minimum Balances
+- Current Account: Minimum balance $100.
+- Savings Account: Minimum balance $50.
+- Salary Account: Minimum balance $10.
 
 
