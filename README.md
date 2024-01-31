@@ -1,6 +1,6 @@
 # Banking Application in Java
 
-This is a simple banking application implemented in Java. It provides basic functionality for creating, updating, and managing different types of bank accounts, such as Current Accounts, Savings Accounts, and Salary Accounts.
+This is a banking application implemented in Java. It provides basic functionality for creating, updating, and managing different types of bank accounts, such as Current Accounts, Savings Accounts, and Salary Accounts.
 
 ## Features
 
