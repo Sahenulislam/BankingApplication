@@ -17,3 +17,11 @@ This is a banking application implemented in Java. It provides functionality for
    ```bash
    git clone https://github.com/your-username/banking-application-java.git
    cd banking-application-java
+
+Follow the Menu:
+The application will display a menu with different options. Enter the desired choice to perform specific actions.
+
+Account Types and Minimum Balances
+Current Account: Minimum balance $100
+Savings Account: Minimum balance $50
+Salary Account: Minimum balance $10
