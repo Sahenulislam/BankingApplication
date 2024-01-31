@@ -14,4 +14,6 @@ This is a banking application implemented in Java. It provides basic functionali
 ## How to Use
 
 1. **Clone the Repository:**
-   https://github.com/Sahenulislam/BankingApplication.git
+   ```bash
+   git clone https://github.com/your-username/banking-application-java.git
+   cd banking-application-java
