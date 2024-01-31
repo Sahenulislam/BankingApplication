@@ -19,6 +19,6 @@ This is a banking application implemented in Java. It provides functionality for
    cd banking-application-java
 
 Account Types and Minimum Balances
-Current Account: Minimum balance $100.
-Savings Account: Minimum balance $50.
-Salary Account: Minimum balance $10.
+-Current Account: Minimum balance $100.
+-Savings Account: Minimum balance $50.
+-Salary Account: Minimum balance $10.
