@@ -14,9 +14,7 @@ This is a banking application implemented in Java. It provides functionality for
 ## How to Use
 
 1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/banking-application-java.git
-   cd banking-application-java
+  https://github.com/Sahenulislam/BankingApplication.git
 
 Account Types and Minimum Balances
 - Current Account: Minimum balance $100.
