@@ -1,18 +1,19 @@
-## Getting Started
+# Simple Banking Application in Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is a simple banking application implemented in Java. It provides basic functionality for creating, updating, and managing different types of bank accounts, such as Current Accounts, Savings Accounts, and Salary Accounts.
 
-## Folder Structure
+## Features
 
-The workspace contains two folders by default, where:
+- Create a new account: Choose from three account types (Current, Savings, Salary) and set up your account with an initial balance.
+- Display all accounts: View information about all existing accounts.
+- Update an account: Modify account details, such as the account holder's name.
+- Delete an account: Remove an existing account from the system.
+- Deposit and withdraw funds: Perform financial transactions on your accounts.
+- Search for an account: Find detailed information about a specific account.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## How to Use
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/banking-application-java.git
+   cd banking-application-java
