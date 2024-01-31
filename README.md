@@ -10,6 +10,7 @@ This is a banking application implemented in Java. It provides functionality for
 - Delete an account: Remove an existing account from the system.
 - Deposit and withdraw funds: Perform financial transactions on your accounts.
 - Search for an account: Find detailed information about a specific account.
+
 Account Types and Minimum Balances
 - Current Account: Minimum balance $100.
 - Savings Account: Minimum balance $50.
